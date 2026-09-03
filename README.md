@@ -1,54 +1,111 @@
-# 👋 Hi, I'm Pavan Davekar
+# 👋 Hi, I'm Pavan Darvekar
 
 ### QA Automation Engineer | Java | Selenium | TestNG | Maven | AI-Enabled Test Automation
 
-I am a QA Automation professional focused on building robust, scalable and maintainable test automation frameworks using Java and Selenium.
+QA Automation Engineer focused on building scalable, maintainable and reusable test automation frameworks using Java and Selenium.
+
+I am interested in modern test automation practices, framework architecture and AI-assisted automation to improve test execution, reporting and failure analysis.
+
+---
 
 ## 🛠️ Technical Skills
 
-- Java
-- Selenium WebDriver
-- TestNG
-- Maven
-- Page Object Model (POM)
-- Allure Reporting
-- Git & GitHub
-- API Testing
-- AI-Assisted Test Automation
-- Gemini AI Integration
+- **Programming:** Java
+- **Automation:** Selenium WebDriver
+- **Test Framework:** TestNG
+- **Build Tool:** Maven
+- **Design Pattern:** Page Object Model (POM)
+- **Reporting:** Allure Reports
+- **Version Control:** Git & GitHub
+- **API Testing:** REST API Testing
+- **AI Automation:** Gemini AI Integration
+- **AI-Assisted Testing:** AI-based Locator Assistance & Failure Analysis
 
-## 🚀 Featured Automation Frameworks
+---
+
+## 🚀 Featured Automation Projects
 
 ### 🤖 AI-Enabled Selenium Java Framework
 
-An AI-powered Selenium automation framework built using Java, Selenium, TestNG, Maven, Allure and Gemini AI.
+AI-enabled test automation framework built using Java, Selenium WebDriver, TestNG, Maven, Allure and Gemini AI.
 
 **Key Features:**
 - Selenium WebDriver Automation
 - TestNG Test Execution
-- Page Object Model
-- Maven Project Management
-- Allure Reporting
+- Page Object Model (POM)
+- Reusable Automation Utilities
+- Configuration Management
+- Explicit Wait Handling
 - Automatic Screenshots
+- Allure Test Reporting
 - Gemini AI Integration
-- AI Locator Healing
-- AI-assisted failure recovery
+- AI-Assisted Locator Handling
+- AI-Assisted Failure Analysis
 
-### 🧪 Selenium Automation Framework
+---
+
+### 🧪 Enterprise Selenium Automation Framework
 
 Enterprise-style Selenium automation framework designed with reusable components, Page Object Model and TestNG.
 
+**Key Features:**
+- Java + Selenium WebDriver
+- TestNG
+- Maven
+- Page Object Model
+- Reusable Utilities
+- Configuration Management
+- Explicit Waits
+- Logging
+- Screenshots
+- Test Reporting
+- Cross-Browser Automation
+
+---
+
 ### 🌐 OrangeHRM Selenium Automation
 
-Web UI automation framework for OrangeHRM application using Java, Selenium, TestNG and Page Object Model.
+Web UI automation framework developed for OrangeHRM using Java, Selenium WebDriver, TestNG and Page Object Model.
 
-## 📊 AI Automation Highlights
+**Focus Areas:**
+- End-to-End Web Automation
+- Page Object Model
+- Data-Driven Testing
+- Reusable Components
+- Test Execution & Reporting
+- Maintainable Automation Design
 
-- AI Locator Healing
-- AI-assisted Test Automation
+---
+
+## 🤖 AI-Enabled Test Automation
+
+Currently exploring and implementing AI capabilities in test automation:
+
+- AI-Assisted Locator Handling
 - Intelligent Locator Recovery
 - Gemini AI Integration
-- Automated Failure Analysis
+- AI-Assisted Failure Analysis
+- AI-Assisted Test Automation
+- Intelligent Test Automation Workflows
+
+---
+
+## 📊 Framework Engineering
+
+My automation frameworks focus on:
+
+- Reusability
+- Maintainability
+- Scalability
+- Configuration Management
+- Explicit Wait Strategies
+- Data-Driven Testing
+- Logging & Reporting
+- Screenshot Management
+- Cross-Browser Testing
+- CI/CD Integration
+
+---
 
 ## 📈 Current Focus
 
@@ -56,8 +113,11 @@ Web UI automation framework for OrangeHRM application using Java, Selenium, Test
 - AI + Test Automation
 - Playwright
 - Framework Design & Architecture
-- Continuous Integration / CI-CD
+- CI/CD
+- Modern Test Automation Practices
+
+---
 
 ## 📫 Connect With Me
 
-GitHub: [Pavan-Davekar](https://github.com/Pavan-Davekar)
+- **GitHub:** [Pavan-Darvekar](https://github.com/Pavan-Davekar)
